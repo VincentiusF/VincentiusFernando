@@ -1,14 +1,14 @@
 {
   "project_info": {
-    "project_number": "712575432967",
-    "firebase_url": "https://vincentiusfernando-69ba2-default-rtdb.firebaseio.com",
-    "project_id": "vincentiusfernando-69ba2",
-    "storage_bucket": "vincentiusfernando-69ba2.firebasestorage.app"
+    "project_number": "1059466709411",
+    "firebase_url": "https://vincentiusfernando-8afbc-default-rtdb.firebaseio.com",
+    "project_id": "vincentiusfernando-8afbc",
+    "storage_bucket": "vincentiusfernando-8afbc.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:712575432967:android:c4bde8fc051fe0e39aeda2",
+        "mobilesdk_app_id": "1:1059466709411:android:d57fcb5eca924b6532b216",
         "android_client_info": {
           "package_name": "com.example.tugas_pab_2"
         }
@@ -16,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCeNKQFje6VDWmLC2uz7qRmOnmerdap0Go"
+          "current_key": "AIzaSyDJIk2kmWsUvzSk-HMlZDdODyIPaWwo3NQ"
         }
       ],
       "services": {

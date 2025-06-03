@@ -41,54 +41,53 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDsrvtw4NzCQgb4lBDGepO_LANweWgxlXc',
-    appId: '1:712575432967:web:8f3c02c01466964a9aeda2',
-    messagingSenderId: '712575432967',
-    projectId: 'vincentiusfernando-69ba2',
-    authDomain: 'vincentiusfernando-69ba2.firebaseapp.com',
-    databaseURL: 'https://vincentiusfernando-69ba2-default-rtdb.firebaseio.com',
-    storageBucket: 'vincentiusfernando-69ba2.firebasestorage.app',
-    measurementId: 'G-N5V5ZVLPCB',
+    apiKey: 'AIzaSyBDP_xbI_rabwE2d8TlZc8N4YMsKuCt7NQ',
+    appId: '1:1059466709411:web:3ef78351b4b5ad3632b216',
+    messagingSenderId: '1059466709411',
+    projectId: 'vincentiusfernando-8afbc',
+    authDomain: 'vincentiusfernando-8afbc.firebaseapp.com',
+    databaseURL: 'https://vincentiusfernando-8afbc-default-rtdb.firebaseio.com',
+    storageBucket: 'vincentiusfernando-8afbc.firebasestorage.app',
+    measurementId: 'G-BXF8P886V0',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCeNKQFje6VDWmLC2uz7qRmOnmerdap0Go',
-    appId: '1:712575432967:android:c4bde8fc051fe0e39aeda2',
-    messagingSenderId: '712575432967',
-    projectId: 'vincentiusfernando-69ba2',
-    databaseURL: 'https://vincentiusfernando-69ba2-default-rtdb.firebaseio.com',
-    storageBucket: 'vincentiusfernando-69ba2.firebasestorage.app',
+    apiKey: 'AIzaSyDJIk2kmWsUvzSk-HMlZDdODyIPaWwo3NQ',
+    appId: '1:1059466709411:android:d57fcb5eca924b6532b216',
+    messagingSenderId: '1059466709411',
+    projectId: 'vincentiusfernando-8afbc',
+    databaseURL: 'https://vincentiusfernando-8afbc-default-rtdb.firebaseio.com',
+    storageBucket: 'vincentiusfernando-8afbc.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCuCkdB-bluoJkAAzHQEMKu-CTETdUJW4A',
-    appId: '1:712575432967:ios:ae1efb3bbd71f1bf9aeda2',
-    messagingSenderId: '712575432967',
-    projectId: 'vincentiusfernando-69ba2',
-    databaseURL: 'https://vincentiusfernando-69ba2-default-rtdb.firebaseio.com',
-    storageBucket: 'vincentiusfernando-69ba2.firebasestorage.app',
+    apiKey: 'AIzaSyBCzfJfrqvE9NvlpCsuBGyy4MzXnVVJaLQ',
+    appId: '1:1059466709411:ios:cb59cbbd7f97c12032b216',
+    messagingSenderId: '1059466709411',
+    projectId: 'vincentiusfernando-8afbc',
+    databaseURL: 'https://vincentiusfernando-8afbc-default-rtdb.firebaseio.com',
+    storageBucket: 'vincentiusfernando-8afbc.firebasestorage.app',
     iosBundleId: 'com.example.tugasPab2',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCuCkdB-bluoJkAAzHQEMKu-CTETdUJW4A',
-    appId: '1:712575432967:ios:ae1efb3bbd71f1bf9aeda2',
-    messagingSenderId: '712575432967',
-    projectId: 'vincentiusfernando-69ba2',
-    databaseURL: 'https://vincentiusfernando-69ba2-default-rtdb.firebaseio.com',
-    storageBucket: 'vincentiusfernando-69ba2.firebasestorage.app',
+    apiKey: 'AIzaSyBCzfJfrqvE9NvlpCsuBGyy4MzXnVVJaLQ',
+    appId: '1:1059466709411:ios:cb59cbbd7f97c12032b216',
+    messagingSenderId: '1059466709411',
+    projectId: 'vincentiusfernando-8afbc',
+    databaseURL: 'https://vincentiusfernando-8afbc-default-rtdb.firebaseio.com',
+    storageBucket: 'vincentiusfernando-8afbc.firebasestorage.app',
     iosBundleId: 'com.example.tugasPab2',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDsrvtw4NzCQgb4lBDGepO_LANweWgxlXc',
-    appId: '1:712575432967:web:1b03ae0acbc640d49aeda2',
-    messagingSenderId: '712575432967',
-    projectId: 'vincentiusfernando-69ba2',
-    authDomain: 'vincentiusfernando-69ba2.firebaseapp.com',
-    databaseURL: 'https://vincentiusfernando-69ba2-default-rtdb.firebaseio.com',
-    storageBucket: 'vincentiusfernando-69ba2.firebasestorage.app',
-    measurementId: 'G-KZT75G7HBM',
+    apiKey: 'AIzaSyBDP_xbI_rabwE2d8TlZc8N4YMsKuCt7NQ',
+    appId: '1:1059466709411:web:bc85dfe23ca4c82932b216',
+    messagingSenderId: '1059466709411',
+    projectId: 'vincentiusfernando-8afbc',
+    authDomain: 'vincentiusfernando-8afbc.firebaseapp.com',
+    databaseURL: 'https://vincentiusfernando-8afbc-default-rtdb.firebaseio.com',
+    storageBucket: 'vincentiusfernando-8afbc.firebasestorage.app',
+    measurementId: 'G-W7WCPD43HD',
   );
-
 }
